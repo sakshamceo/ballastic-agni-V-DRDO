@@ -1,0 +1,61 @@
+.pokemon{
+	background: linear-gradient(to bottom, #ff0000 0%, #800000 88%); 
+	border:3px solid teal;
+	border: rgb(0,34,44);
+	background-size: cover;
+
+
+
+}
+.pick{
+	height: 100%;
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.container
+{font-family: Oswald;
+	
+	background: linear-gradient(to left,#ff0000 0%, #9966ff 100% );
+
+}
+.inscontainer{
+	margin: 10px;
+  background-color: pink;
+  border: 1px ;
+  opacity: 0.6;
+}
+.commentsw
+{
+	background-image: url(https://wallpapercave.com/wp/wp2869455.jpg);
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: overline;
+}
+.minister{ 
+	border-radius: 50%: 
+	margin-bottom: 0px;
+	
+}
+
+.last{
+
+background-image: url('http://dl3.glitter-graphics.net/pub/3558/3558423ybgu1v4eww.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+background-size: cover;
+}
+.least{
+
+	background-color: 	#2F4F4F;
+	margin-top:0; 
+}
+
+
